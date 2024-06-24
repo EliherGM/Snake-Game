@@ -13,6 +13,7 @@
     }
   })
 
+  
   // Con setup en la etiqueta script
   // el codigo queda de la sig manera:
   // let age = 10;
